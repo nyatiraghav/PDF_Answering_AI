@@ -49,7 +49,7 @@ To set up the project environment, follow these steps:
    ```sh
    streamlit run main.py
     ```
-3.**Interact with the System**
+**Interact with the System**
 
 - Upload a PDF document.
 - Enter your question related to the PDF content.
