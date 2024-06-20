@@ -15,13 +15,6 @@ This project aims to develop an AI model that can answer questions based on the 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Methodology](#methodology)
-- [Failed Approaches](#failed-approaches)
-- [Results](#results)
-- [Discussion](#discussion)
-- [Conclusion](#conclusion)
-- [Future Improvements](#future-improvements)
-- [References](#references)
 
 ## Installation
 
