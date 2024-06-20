@@ -41,9 +41,13 @@ To set up the project environment, follow these steps:
    ```sh
    cd Code
     ```
-2. **Run the Application**
+2. **Run the python file for fine tuning the model**
    ```sh
-   python main.py
+   python process_model.py
+    ```
+3. **Run the application**
+   ```sh
+   streamlit run main.py
     ```
 3.**Interact with the System**
 
